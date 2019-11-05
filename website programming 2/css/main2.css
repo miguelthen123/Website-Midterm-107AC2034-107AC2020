@@ -534,16 +534,16 @@
 
 .overlay {
   display: flex;
-  height:328px ;
-  width:328px;
+  height:339px ;
+  width:339px;
   opacity: 0;
   transition: .3s ease;
   background-repeat: no-repeat;
   background-size: cover;
   background-color: black;
   justify-content: center;
-  margin-left: 6px;
-  margin-top: -338px;
+  margin-left: 0px;
+  margin-top: -342px;
 }
 
 .hovericon1:hover .overlay {
@@ -552,9 +552,9 @@
 
 .hovericona{
   display: flex;
-  height: 328px;
-  width: 328px;
-  margin-left: 50px;
+  height: 300px;
+  margin-left: 10px;
+  margin-top: 15px;
 }
 
 
